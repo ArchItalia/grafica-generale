@@ -27,4 +27,10 @@ colore secondario ![image](https://github.com/ArchItalia/grafica-generale/assets
  * hsv 197°, 38%, 55%
  * hsl 197°, 23%, 45%
 
+colore terziario ![image](https://github.com/ArchItalia/grafica-generale/assets/117321045/4cd3a83e-40b6-414f-aa13-6b7b24ced5e5)
 
+ * hex #0e161c
+ * rgb 14, 22, 28
+ * cmyk 50%, 21%, 0%, 89%
+ * hsv 206°, 50%, 11%
+ * hsl 206°, 33%, 8%
