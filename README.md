@@ -8,7 +8,8 @@ grafica generale della comunnity architalia
 
 ## palette
 
-![Screenshot from 2023-07-15 00-47-41](https://github.com/ArchItalia/grafica-generale/assets/117321045/8abd7f85-4a8d-425e-be72-fe6425e7a53f)
+![palette](https://github.com/ArchItalia/grafica-generale/assets/117321045/bb91cc92-37bb-43fd-93a5-49d5eb7acc8f)
+
 
 
 colore primario ![image](https://github.com/ArchItalia/grafica-generale/assets/117321045/85b968ab-bf58-4776-ad06-43cf884a1ec7)
