@@ -1,6 +1,11 @@
 # grafica-generale
 grafica generale della comunnity architalia
 
+
+![image](https://github.com/ArchItalia/grafica-generale/assets/117321045/9a5aa48a-a207-4880-bd05-c3b99d6b05ce)
+
+<br>
+
 ## palette
 
 colore primario ![image](https://github.com/ArchItalia/grafica-generale/assets/117321045/85b968ab-bf58-4776-ad06-43cf884a1ec7)
@@ -22,6 +27,4 @@ colore secondario ![image](https://github.com/ArchItalia/grafica-generale/assets
  * hsv 197°, 38%, 55%
  * hsl 197°, 23%, 45%
 
-<br>
 
-![image](https://github.com/ArchItalia/grafica-generale/assets/117321045/9a5aa48a-a207-4880-bd05-c3b99d6b05ce)
