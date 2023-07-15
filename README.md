@@ -41,7 +41,7 @@ colore terziario ![image](https://github.com/ArchItalia/grafica-generale/assets/
 
 ## fonts
 
-Logo-text.woff
+Logo-Regular.woff
 https://github.com/ArchItalia/architalia-fonts
 
 
