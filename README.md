@@ -6,9 +6,6 @@ grafica generale della comunnity architalia
 
 <br>
 
-## palette
-
-
 ## fonts
 
 Logo-Regular.woff
