@@ -13,8 +13,7 @@ grafica generale della comunnity architalia
 
 
 
-colore primario ![image](https://github.com/ArchItalia/grafica-generale/assets/117321045/85b968ab-bf58-4776-ad06-43cf884a1ec7)
-
+colore primario 
 
  * hex #ffffff
  * rgb 255,255,255
@@ -22,17 +21,15 @@ colore primario ![image](https://github.com/ArchItalia/grafica-generale/assets/1
  * hsv 0°, 0%, 100%
  * hsl 0°, 0%, 100%
 
-colore secondario ![image](https://github.com/ArchItalia/grafica-generale/assets/117321045/d2a265d6-582c-44c4-8eae-7c9063d6afa2)
-
-
+colore secondario 
   
- * hex #587d8d
- * rgb 88, 125, 141
- * cmyk 38%, 11%, 0%, 45%
- * hsv 197°, 38%, 55%
- * hsl 197°, 23%, 45%
+ * hex #41b4e6
+ * rgb 65, 180, 230
+ * cmyk 72%, 22%, 0%, 10%
+ * hsv 198°, 72%, 90%
+ * hsl 198°, 77%, 58%
 
-colore terziario ![image](https://github.com/ArchItalia/grafica-generale/assets/117321045/4cd3a83e-40b6-414f-aa13-6b7b24ced5e5)
+colore terziario 
 
  * hex #0e161c
  * rgb 14, 22, 28
