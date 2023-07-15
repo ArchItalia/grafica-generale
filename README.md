@@ -8,7 +8,8 @@ grafica generale della comunnity architalia
 
 ## palette
 
-![palette](https://github.com/ArchItalia/grafica-generale/assets/117321045/bb91cc92-37bb-43fd-93a5-49d5eb7acc8f)
+![palette](https://github.com/ArchItalia/grafica-generale/assets/117321045/b3b9cc49-31ab-4317-9ac5-f02ed976bd6f)
+
 
 
 
